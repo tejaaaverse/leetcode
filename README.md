@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tejaaaverse/leetcode/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejaaaverse/leetcode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejaaaverse/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejaaaverse/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
