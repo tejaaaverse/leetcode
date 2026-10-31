@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejaaaverse/leetcode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tejaaaverse/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejaaaverse/leetcode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tejaaaverse/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
