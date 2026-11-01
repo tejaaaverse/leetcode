@@ -6,6 +6,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tejaaaverse/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/tejaaaverse/leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/tejaaaverse/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejaaaverse/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/tejaaaverse/leetcode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/tejaaaverse/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tejaaaverse/leetcode/tree/master/0217-contains-duplicate) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tejaaaverse/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tejaaaverse/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
