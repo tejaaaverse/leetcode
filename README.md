@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/tejaaaverse/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejaaaverse/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaaaverse/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/tejaaaverse/leetcode/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaaaverse/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/tejaaaverse/leetcode/tree/master/0217-contains-duplicate) |
 ## String
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tejaaaverse/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/tejaaaverse/leetcode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/tejaaaverse/leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
